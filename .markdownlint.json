@@ -1,0 +1,9 @@
+{
+    "default": true,
+    "MD024": false,
+    "MD012": false,
+    "no-hard-tabs": false,
+    "no-inline-html": false,
+    "line-length": false,
+    "no-bare-urls": false
+}
